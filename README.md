@@ -1,1 +1,1 @@
-# santa-claus-bot
+# Alfred discord bot
