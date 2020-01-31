@@ -1,0 +1,21 @@
+{
+    "name": "santa-claus-bot",
+    "description": "Discord bot hosting on cloud for santa-claus project",
+    "version": "1.0.0",
+    "main": "bot.js",
+    "scripts": {
+        "start": "node bot.js"
+    },
+    "engines": {
+        "node": "12.11.1",
+        "npm": "6.13.0"
+    },
+    "dependencies": {
+        "cron": "^1.7.2",
+        "discord.js": "^11.5.1",
+        "dotenv": "^8.2.0",
+        "fs": "0.0.1-security",
+        "mongoose": "^5.8.10",
+        "slackbots": "^1.2.0"
+    }
+}

@@ -1,0 +1,688 @@
+{
+    "userInfo": [
+        {
+            "userID": 519777074198609900,
+            "username": "Roger",
+            "points": 320,
+            "commandAmount": 11,
+            "card": [
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "on",
+                    "cardAmount": 1,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                }
+            ],
+            "evolveCard": [
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                }
+            ],
+            "checkin": "on"
+        },
+        {
+            "userID": 1038679282,
+            "username": "test",
+            "points": 0,
+            "commandAmount": 0,
+            "card": [
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                }
+            ],
+            "evolveCard": [
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                }
+            ],
+            "checkin": "off"
+        },
+        {
+            "userID": 0,
+            "username": "test",
+            "points": 0,
+            "commandAmount": 0,
+            "card": [
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "on",
+                    "cardAmount": 1,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                }
+            ],
+            "evolveCard": [
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                }
+            ],
+            "checkin": "off"
+        },
+        {
+            "userID": 0,
+            "username": "test",
+            "points": 0,
+            "commandAmount": 0,
+            "card": [
+                {
+                    "cardStatus": "on",
+                    "cardAmount": 1,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                }
+            ],
+            "evolveCard": [
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                }
+            ],
+            "checkin": "off"
+        },
+        {
+            "userID": 0,
+            "username": "test",
+            "points": 0,
+            "commandAmount": 0,
+            "card": [
+                {
+                    "cardStatus": "on",
+                    "cardAmount": 1,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                }
+            ],
+            "evolveCard": [
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                }
+            ],
+            "checkin": "off"
+        },
+        {
+            "userID": 0,
+            "username": "test",
+            "points": 0,
+            "commandAmount": 0,
+            "card": [
+                {
+                    "cardStatus": "on",
+                    "cardAmount": 1,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                }
+            ],
+            "evolveCard": [
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                }
+            ],
+            "checkin": "off"
+        },
+        {
+            "userID": 0,
+            "username": "test",
+            "points": 0,
+            "commandAmount": 0,
+            "card": [
+                {
+                    "cardStatus": "on",
+                    "cardAmount": 1,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                }
+            ],
+            "evolveCard": [
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                }
+            ],
+            "checkin": "off"
+        },
+        {
+            "userID": 0,
+            "username": "test",
+            "points": 0,
+            "commandAmount": 0,
+            "card": [
+                {
+                    "cardStatus": "on",
+                    "cardAmount": 1,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                }
+            ],
+            "evolveCard": [
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                }
+            ],
+            "checkin": "off"
+        },
+        {
+            "userID": 0,
+            "username": "test",
+            "points": 0,
+            "commandAmount": 0,
+            "card": [
+                {
+                    "cardStatus": "on",
+                    "cardAmount": 1,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                }
+            ],
+            "evolveCard": [
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                },
+                {
+                    "cardStatus": "off",
+                    "cardAmount": 0,
+                    "selling": "false"
+                }
+            ],
+            "checkin": "off"
+        }
+    ]
+}
